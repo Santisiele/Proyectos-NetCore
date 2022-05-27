@@ -1,0 +1,35 @@
+@{
+    ViewData["Title"] = "Equipos";
+}
+
+@* CARDS *@
+
+<div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <h2 class="titulo">Equipos</h2>
+                    <div class="descripcion">
+                        <p>En esta página podrás encontrar los equipos que participan en esta edición</p>
+                        <p>Los links llevan a los planteles de los equipos</p>
+                    </div>
+            </div>
+        </div>
+        <div class="row">
+            @foreach (string equipo in ViewBag.Equipos)
+            {
+                <div class="col-lg-4 col-md-6 col-sm-12 my-3">
+                    <center>
+                    <div class="card" style="width: 18rem;">
+                     <a href='@Url.Action("VerJugadoresEquipos","Equipos", new {Equipo=@equipo})'>
+                        <img class="card-img-top" src=@("/img/banderas/" + equipo + ".png") alt=@equipo>
+                        </a>
+                        <div class="card-body">
+                            <h4 class="card-title">@equipo</h4>
+                            <a class="btn btn-primary" href='@Url.Action("VerJugadoresEquipos","Equipos", new {Equipo=@equipo})'>Ver Jugadores</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

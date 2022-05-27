@@ -1,0 +1,28 @@
+@{
+    ViewData["Title"] = "Establecimientos";
+}
+
+@if(ViewBag.Anashei.Count==0){
+    <h1>raba g</h1>
+}
+
+<div class="container">
+    <div class="row">
+            @foreach(Establecimiento est in ViewBag.Establecimiento){
+                <div class="col-md-6">
+                    <center>
+                    <div class="card" style="width: 18rem; margin-bottom: 2rem; background-color: black">
+                    <img src="/img/@(est.Nombre).jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color: white">@est.Nombre</h5>
+                        <p class="card-text" style="color: white">@est.Direccion</p>
+                        <p class="card-text" style="color: white">@est.Localidad</p>
+                        <a class="btn btn-primary" href='@Url.Action("Ahya","Home", new {IdEstablecimiento=@est.IdEstablecimiento})'>Ver personas que votan en @est.Nombre</a>
+                    </div>
+                </div>
+                </center>
+                </div>
+            }
+        </div>
+    </div>
+</div>

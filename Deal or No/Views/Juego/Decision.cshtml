@@ -1,0 +1,43 @@
+@{
+    ViewData["Title"] = "Decision";
+}
+<body id= "index">  
+    <h1 class= "maletin" style= "margin-top: 2rem; margin-bottom: 4rem;"></h1> 
+        <div class= "row">   
+            <div class = "col-md-2">
+                @for (int i=0; i<13; i++){
+                    if (ViewBag.ImportesDescartados.Contains(ViewBag.Importes[i]))
+                    {
+                        <button type="button" class="btn btn-outline-secondary btn-lg rectangulo" style= "width:100%; margin-bottom:1rem;">$@ViewBag.Importes[i]</button>  
+                    }
+                    else
+                    {
+                        <button type="button" class="btn btn-outline-warning btn-lg rectangulo" style= "width:100%; margin-bottom:1rem;">$@ViewBag.Importes[i]</button>  
+                    }
+                }
+            </div>
+            <div class = "col-md-8">
+                <h4 class="text-center" id="color" style= "margin-bottom: 2rem;"> Importe del maletín anterior: $@ViewBag.ImporteMaletin</h4>
+                <h1 class= "maletin" style= "margin-top: 2rem; margin-bottom: -0.5rem;"> <b> Oferta de la </b></h1>
+                <h1 class= "maletin" style= "margin-bottom:1rem;"> <b> Banca: </b></h1>
+                <h2 class= "precio"> $@string.Format("{0:#,0.00}", ViewBag.Banca) </h2> 
+                <div class="text-center">
+                <h3 style= "margin-bottom:2rem;"><i>¿Aceptas la oferta?</i></h3>
+                <a button type="button" class="btn-lg btn-warning" style="margin-right: 1rem; margin-bottom: 2rem;" href='@Url.Action("Decision", "Juego", new { decision = "true" } )'><h2 style="color:black;">Aceptar</h2></button></a>
+                <a button type="button" class="btn-lg btn-warning" style="margin-left: 1rem; margin-bottom: 2rem;" href='@Url.Action("Decision", "Juego", new { decision = "false" } )'><h2 style="color:black;">Rechazar</h2></button></a>
+                </div>
+            </div>
+            <div class = "col-md-2">
+                @for (int f=13; f<26; f++){
+                    if (ViewBag.ImportesDescartados.Contains(ViewBag.Importes[f]))
+                    {
+                        <button type="button" class="btn btn-outline-secondary btn-lg rectangulo" style= "width:100%; margin-bottom:1rem;">$@ViewBag.Importes[f]</button>  
+                    }
+                    else
+                    {
+                        <button type="button" class="btn btn-outline-warning btn-lg rectangulo" style= "width:100%; margin-bottom:1rem;">$@ViewBag.Importes[f]</button>  
+                    }
+                }
+            </div>
+        </div>
+</body>

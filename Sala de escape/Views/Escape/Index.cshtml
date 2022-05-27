@@ -1,0 +1,72 @@
+@{
+    ViewData["Title"] = "Introduccion";
+}
+<center>
+<div class= "tam">
+<div class= "fondo">
+    <section class="cover bg-black text-white overflow-hidden">
+      <div class="container foreground">
+        <div class="row align-items-center justify-content-center vh-100">
+          <div class="col-lg-10 text-center text-shadow">
+            <h4 class="eyebrow"><span class="eyebrow font-weight-bold">¿Estas listo?</span></h4>
+            <h1 class="display-1 font-weight-bold mt-2 mb-5">Reglas <span class="d-lg-block">del juego</span></h1>
+            <p class= "text"> Estás por comenzar el juego, son cuatro habitaciones de las que deberás escapar, en cada una de ellas obtendrás una clave que necesitaras para pasar a la sala siguiente. En la última de las mismas deberás buscar la llave que te permita salir completamente del shopping. Te deseamos mucha suerte y esperamos que puedas escapar! Hasta la próxima!</p>
+            <br>
+<br>
+<center>
+<form action='@Url.Action("Habitacion1","Escape")' method="GET" >
+<div class="input-group ml-0.9 mr-0.9 mb-0">
+  <input type="text" class="form-control" name= "nombreUs" placeholder="Ingrese su nombre" aria-label="clave" aria-describedby="button-addon2">
+  <div class="input-group-append">
+    <button class="btn btn-danger" type="submit">Enviar</button>
+ </div>
+</div>
+</form>
+<br>
+          </div>
+        </div>
+      </div>
+
+      <div class="canvas aos-init aos-animate" data-aos="fade-in" data-aos-delay="250">
+        <div class="container-fluid showcase">
+          <div class="row gutter-2 gutter-md-4 gutter-lg-6">
+            <div class="col-6 col-md-4 col-lg-3 skrollable skrollable-between" data-top-top="transform: translateY(0%);" data-top-bottom="transform: translateY(-10%);" style="transform: translateY(-0.322581%);">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-4.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-6.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-3.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-2.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-1.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-5.jpg" alt="">
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 skrollable skrollable-between" data-top-top="transform: translateY(0%);" data-top-bottom="transform: translateY(10%);" style="transform: translateY(1.15207%);">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-5.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-4.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-2.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-3.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-6.jpg" alt="">
+            </div>
+            <div class="d-none d-md-block col-md-4 col-lg-3 skrollable skrollable-between" data-top-top="transform: translateY(0%);" data-top-bottom="transform: translateY(-10%);" style="transform: translateY(-1.98157%);">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-8.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-7.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-1.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-10.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-7.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-6.jpg" alt="">
+            </div>
+            <div class="d-none d-lg-block col-lg-3 skrollable skrollable-between" data-top-top="transform: translateY(0%);" data-top-bottom="transform: translateY(10%);" style="transform: translateY(10%);">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-1.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-6.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-9.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-8.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-3.jpg" alt="">
+              <img class="mb-2 mb-md-4 mb-lg-6" src="assets/images/demo/preview/section-6.jpg" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <span class="scroll-down"></span>
+    </section>
+  </div>
+  </div>
+  <center>

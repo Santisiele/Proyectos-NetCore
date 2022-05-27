@@ -1,0 +1,671 @@
+C:\Users\santi\ORT\Prg\TP7\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\santi\ORT\Prg\TP7\bin\Debug\net5.0\appsettings.json
+C:\Users\santi\ORT\Prg\TP7\bin\Debug\net5.0\TP7.exe
+C:\Users\santi\ORT\Prg\TP7\bin\Debug\net5.0\TP7.deps.json
+C:\Users\santi\ORT\Prg\TP7\bin\Debug\net5.0\TP7.runtimeconfig.json
+C:\Users\santi\ORT\Prg\TP7\bin\Debug\net5.0\TP7.runtimeconfig.dev.json
+C:\Users\santi\ORT\Prg\TP7\bin\Debug\net5.0\TP7.dll
+C:\Users\santi\ORT\Prg\TP7\bin\Debug\net5.0\ref\TP7.dll
+C:\Users\santi\ORT\Prg\TP7\bin\Debug\net5.0\TP7.pdb
+C:\Users\santi\ORT\Prg\TP7\bin\Debug\net5.0\TP7.Views.dll
+C:\Users\santi\ORT\Prg\TP7\bin\Debug\net5.0\TP7.Views.pdb
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\TP7.csprojAssemblyReference.cache
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\TP7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\TP7.AssemblyInfoInputs.cache
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\TP7.AssemblyInfo.cs
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\TP7.csproj.CoreCompileInputs.cache
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\TP7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cache
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cs
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.Manifest.cache
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.xml
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\scopedcss\bundle\TP7.styles.css
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\TP7.TagHelpers.input.cache
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\TP7.TagHelpers.output.cache
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\TP7.RazorCoreGenerate.cache
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cache
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cs
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\TP7.Views.pdb
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\TP7.dll
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\ref\TP7.dll
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\TP7.pdb
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\TP7.genruntimeconfig.cache
+C:\Users\santi\ORT\Prg\TP7\obj\Debug\net5.0\TP7.csproj.CopyComplete
+C:\Users\anton\Downloads\TP7\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\anton\Downloads\TP7\bin\Debug\net5.0\appsettings.json
+C:\Users\anton\Downloads\TP7\bin\Debug\net5.0\TP7.exe
+C:\Users\anton\Downloads\TP7\bin\Debug\net5.0\TP7.deps.json
+C:\Users\anton\Downloads\TP7\bin\Debug\net5.0\TP7.runtimeconfig.json
+C:\Users\anton\Downloads\TP7\bin\Debug\net5.0\TP7.runtimeconfig.dev.json
+C:\Users\anton\Downloads\TP7\bin\Debug\net5.0\TP7.dll
+C:\Users\anton\Downloads\TP7\bin\Debug\net5.0\ref\TP7.dll
+C:\Users\anton\Downloads\TP7\bin\Debug\net5.0\TP7.pdb
+C:\Users\anton\Downloads\TP7\bin\Debug\net5.0\TP7.Views.dll
+C:\Users\anton\Downloads\TP7\bin\Debug\net5.0\TP7.Views.pdb
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\TP7.csproj.AssemblyReference.cache
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\TP7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\TP7.AssemblyInfoInputs.cache
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\TP7.AssemblyInfo.cs
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\TP7.csproj.CoreCompileInputs.cache
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\TP7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cache
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cs
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.Manifest.cache
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.xml
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\scopedcss\bundle\TP7.styles.css
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\TP7.TagHelpers.input.cache
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\TP7.TagHelpers.output.cache
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\TP7.RazorCoreGenerate.cache
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cache
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cs
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\TP7.Views.pdb
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\TP7.dll
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\ref\TP7.dll
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\TP7.pdb
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\TP7.genruntimeconfig.cache
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\TP7.csproj.CopyComplete
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion1.cshtml.g.cs
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion2.cshtml.g.cs
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion3.cshtml.g.cs
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion4.cshtml.g.cs
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Home\Tutorial.cshtml.g.cs
+C:\Users\santi\Downloads\TP7\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\santi\Downloads\TP7\bin\Debug\net5.0\appsettings.json
+C:\Users\santi\Downloads\TP7\bin\Debug\net5.0\TP7.exe
+C:\Users\santi\Downloads\TP7\bin\Debug\net5.0\TP7.deps.json
+C:\Users\santi\Downloads\TP7\bin\Debug\net5.0\TP7.runtimeconfig.json
+C:\Users\santi\Downloads\TP7\bin\Debug\net5.0\TP7.runtimeconfig.dev.json
+C:\Users\santi\Downloads\TP7\bin\Debug\net5.0\TP7.dll
+C:\Users\santi\Downloads\TP7\bin\Debug\net5.0\ref\TP7.dll
+C:\Users\santi\Downloads\TP7\bin\Debug\net5.0\TP7.pdb
+C:\Users\santi\Downloads\TP7\bin\Debug\net5.0\TP7.Views.dll
+C:\Users\santi\Downloads\TP7\bin\Debug\net5.0\TP7.Views.pdb
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\TP7.csprojAssemblyReference.cache
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\TP7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\TP7.AssemblyInfoInputs.cache
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\TP7.AssemblyInfo.cs
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\TP7.csproj.CoreCompileInputs.cache
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\TP7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cache
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cs
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.Manifest.cache
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.xml
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\scopedcss\bundle\TP7.styles.css
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\TP7.TagHelpers.input.cache
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\TP7.TagHelpers.output.cache
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\TP7.RazorCoreGenerate.cache
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion1.cshtml.g.cs
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion2.cshtml.g.cs
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion3.cshtml.g.cs
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion4.cshtml.g.cs
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Home\Tutorial.cshtml.g.cs
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cache
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cs
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\TP7.Views.pdb
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\TP7.dll
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\ref\TP7.dll
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\TP7.pdb
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\TP7.genruntimeconfig.cache
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\TP7.csproj.CopyComplete
+C:\Users\admision\Downloads\TP7\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\admision\Downloads\TP7\bin\Debug\net5.0\appsettings.json
+C:\Users\admision\Downloads\TP7\bin\Debug\net5.0\TP7.exe
+C:\Users\admision\Downloads\TP7\bin\Debug\net5.0\TP7.deps.json
+C:\Users\admision\Downloads\TP7\bin\Debug\net5.0\TP7.runtimeconfig.json
+C:\Users\admision\Downloads\TP7\bin\Debug\net5.0\TP7.runtimeconfig.dev.json
+C:\Users\admision\Downloads\TP7\bin\Debug\net5.0\TP7.dll
+C:\Users\admision\Downloads\TP7\bin\Debug\net5.0\ref\TP7.dll
+C:\Users\admision\Downloads\TP7\bin\Debug\net5.0\TP7.pdb
+C:\Users\admision\Downloads\TP7\bin\Debug\net5.0\TP7.Views.dll
+C:\Users\admision\Downloads\TP7\bin\Debug\net5.0\TP7.Views.pdb
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\TP7.csprojAssemblyReference.cache
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\TP7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\TP7.AssemblyInfoInputs.cache
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\TP7.AssemblyInfo.cs
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\TP7.csproj.CoreCompileInputs.cache
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\TP7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cache
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cs
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.Manifest.cache
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.xml
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\scopedcss\bundle\TP7.styles.css
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\TP7.TagHelpers.input.cache
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\TP7.TagHelpers.output.cache
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\TP7.RazorCoreGenerate.cache
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion1.cshtml.g.cs
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion2.cshtml.g.cs
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion3.cshtml.g.cs
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion4.cshtml.g.cs
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Home\Tutorial.cshtml.g.cs
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cache
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cs
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\TP7.Views.pdb
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\TP7.dll
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\ref\TP7.dll
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\TP7.pdb
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\TP7.genruntimeconfig.cache
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\TP7.csproj.CopyComplete
+C:\Users\admision\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Index.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\46123578\Downloads\TP7\bin\Debug\net5.0\appsettings.json
+C:\Users\46123578\Downloads\TP7\bin\Debug\net5.0\TP7.exe
+C:\Users\46123578\Downloads\TP7\bin\Debug\net5.0\TP7.deps.json
+C:\Users\46123578\Downloads\TP7\bin\Debug\net5.0\TP7.runtimeconfig.json
+C:\Users\46123578\Downloads\TP7\bin\Debug\net5.0\TP7.runtimeconfig.dev.json
+C:\Users\46123578\Downloads\TP7\bin\Debug\net5.0\TP7.dll
+C:\Users\46123578\Downloads\TP7\bin\Debug\net5.0\ref\TP7.dll
+C:\Users\46123578\Downloads\TP7\bin\Debug\net5.0\TP7.pdb
+C:\Users\46123578\Downloads\TP7\bin\Debug\net5.0\TP7.Views.dll
+C:\Users\46123578\Downloads\TP7\bin\Debug\net5.0\TP7.Views.pdb
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\TP7.csprojAssemblyReference.cache
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\TP7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\TP7.AssemblyInfoInputs.cache
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\TP7.AssemblyInfo.cs
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\TP7.csproj.CoreCompileInputs.cache
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\TP7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cache
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cs
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.Manifest.cache
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.xml
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\scopedcss\bundle\TP7.styles.css
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\TP7.TagHelpers.input.cache
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\TP7.TagHelpers.output.cache
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\TP7.RazorCoreGenerate.cache
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion1.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion2.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion3.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion4.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Index.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Jugar.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Home\Tutorial.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cache
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cs
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\TP7.Views.pdb
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\TP7.dll
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\ref\TP7.dll
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\TP7.pdb
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\TP7.genruntimeconfig.cache
+C:\Users\46123578\Downloads\TP7\obj\Debug\net5.0\TP7.csproj.CopyComplete
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Index.cshtml.g.cs
+C:\Users\anton\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Victoria.cshtml.g.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\bin\Debug\net5.0\appsettings.json
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\bin\Debug\net5.0\TP7.exe
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\bin\Debug\net5.0\TP7.deps.json
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\bin\Debug\net5.0\TP7.runtimeconfig.json
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\bin\Debug\net5.0\TP7.runtimeconfig.dev.json
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\bin\Debug\net5.0\TP7.dll
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\bin\Debug\net5.0\ref\TP7.dll
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\bin\Debug\net5.0\TP7.pdb
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\bin\Debug\net5.0\TP7.Views.dll
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\bin\Debug\net5.0\TP7.Views.pdb
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\TP7.csprojAssemblyReference.cache
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\TP7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\TP7.AssemblyInfoInputs.cache
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\TP7.AssemblyInfo.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\TP7.csproj.CoreCompileInputs.cache
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\TP7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cache
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.Manifest.cache
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.xml
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\scopedcss\bundle\TP7.styles.css
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\TP7.TagHelpers.input.cache
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\TP7.TagHelpers.output.cache
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\TP7.RazorCoreGenerate.cache
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion1.cshtml.g.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion2.cshtml.g.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion3.cshtml.g.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion4.cshtml.g.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\Razor\Views\Escape\Index.cshtml.g.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\Razor\Views\Escape\Jugar.cshtml.g.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\Razor\Views\Escape\Victoria.cshtml.g.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\Razor\Views\Home\Tutorial.cshtml.g.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cache
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cs
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\TP7.Views.pdb
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\TP7.dll
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\ref\TP7.dll
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\TP7.pdb
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\TP7.genruntimeconfig.cache
+C:\Users\admision.ALMAGRO\Desktop\TP7-20210803T131548Z-001\TP7\obj\Debug\net5.0\TP7.csproj.CopyComplete
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\bin\Debug\net5.0\appsettings.json
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\bin\Debug\net5.0\TP7.exe
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\bin\Debug\net5.0\TP7.deps.json
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\bin\Debug\net5.0\TP7.runtimeconfig.json
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\bin\Debug\net5.0\TP7.runtimeconfig.dev.json
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\bin\Debug\net5.0\TP7.dll
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\bin\Debug\net5.0\ref\TP7.dll
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\bin\Debug\net5.0\TP7.pdb
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\bin\Debug\net5.0\TP7.Views.dll
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\bin\Debug\net5.0\TP7.Views.pdb
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\TP7.csprojAssemblyReference.cache
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\TP7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\TP7.AssemblyInfoInputs.cache
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\TP7.AssemblyInfo.cs
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\TP7.csproj.CoreCompileInputs.cache
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\TP7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cache
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cs
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.Manifest.cache
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.xml
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\scopedcss\bundle\TP7.styles.css
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\TP7.TagHelpers.input.cache
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\TP7.TagHelpers.output.cache
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\TP7.RazorCoreGenerate.cache
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion1.cshtml.g.cs
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion2.cshtml.g.cs
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion3.cshtml.g.cs
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\Razor\Views\Escape\Habitacion4.cshtml.g.cs
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\Razor\Views\Escape\Index.cshtml.g.cs
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\Razor\Views\Escape\Jugar.cshtml.g.cs
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\Razor\Views\Escape\Victoria.cshtml.g.cs
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\Razor\Views\Home\Tutorial.cshtml.g.cs
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cache
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cs
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\TP7.Views.pdb
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\TP7.dll
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\ref\TP7.dll
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\TP7.pdb
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\TP7.genruntimeconfig.cache
+C:\Users\admision\Downloads\TP7-20210805T110744Z-001\TP7\obj\Debug\net5.0\TP7.csproj.CopyComplete
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Index.cshtml.g.cs
+C:\Users\santi\Downloads\TP7\obj\Debug\net5.0\Razor\Views\Escape\Victoria.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.csprojAssemblyReference.cache
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.AssemblyInfoInputs.cache
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.AssemblyInfo.cs
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.csproj.CoreCompileInputs.cache
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cache
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cs
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.dll
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\ref\TP7.dll
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.pdb
+C:\Users\santi\Downloads\TP7 (1)\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\santi\Downloads\TP7 (1)\bin\Debug\net5.0\appsettings.json
+C:\Users\santi\Downloads\TP7 (1)\bin\Debug\net5.0\TP7.exe
+C:\Users\santi\Downloads\TP7 (1)\bin\Debug\net5.0\TP7.deps.json
+C:\Users\santi\Downloads\TP7 (1)\bin\Debug\net5.0\TP7.runtimeconfig.json
+C:\Users\santi\Downloads\TP7 (1)\bin\Debug\net5.0\TP7.runtimeconfig.dev.json
+C:\Users\santi\Downloads\TP7 (1)\bin\Debug\net5.0\TP7.dll
+C:\Users\santi\Downloads\TP7 (1)\bin\Debug\net5.0\ref\TP7.dll
+C:\Users\santi\Downloads\TP7 (1)\bin\Debug\net5.0\TP7.pdb
+C:\Users\santi\Downloads\TP7 (1)\bin\Debug\net5.0\TP7.Views.dll
+C:\Users\santi\Downloads\TP7 (1)\bin\Debug\net5.0\TP7.Views.pdb
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.Manifest.cache
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.xml
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\scopedcss\bundle\TP7.styles.css
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.TagHelpers.input.cache
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.TagHelpers.output.cache
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.RazorCoreGenerate.cache
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion1.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion2.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion3.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion4.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Escape\Index.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Escape\Victoria.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Home\Tutorial.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cache
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cs
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.Views.pdb
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.genruntimeconfig.cache
+C:\Users\santi\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.csproj.CopyComplete
+C:\Users\anton\Downloads\TP7 (1)\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\anton\Downloads\TP7 (1)\bin\Debug\net5.0\appsettings.json
+C:\Users\anton\Downloads\TP7 (1)\bin\Debug\net5.0\TP7.exe
+C:\Users\anton\Downloads\TP7 (1)\bin\Debug\net5.0\TP7.deps.json
+C:\Users\anton\Downloads\TP7 (1)\bin\Debug\net5.0\TP7.runtimeconfig.json
+C:\Users\anton\Downloads\TP7 (1)\bin\Debug\net5.0\TP7.runtimeconfig.dev.json
+C:\Users\anton\Downloads\TP7 (1)\bin\Debug\net5.0\TP7.dll
+C:\Users\anton\Downloads\TP7 (1)\bin\Debug\net5.0\ref\TP7.dll
+C:\Users\anton\Downloads\TP7 (1)\bin\Debug\net5.0\TP7.pdb
+C:\Users\anton\Downloads\TP7 (1)\bin\Debug\net5.0\TP7.Views.dll
+C:\Users\anton\Downloads\TP7 (1)\bin\Debug\net5.0\TP7.Views.pdb
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.csproj.AssemblyReference.cache
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.AssemblyInfoInputs.cache
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.AssemblyInfo.cs
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.csproj.CoreCompileInputs.cache
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cache
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cs
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.Manifest.cache
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.xml
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\scopedcss\bundle\TP7.styles.css
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.TagHelpers.input.cache
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.TagHelpers.output.cache
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.RazorCoreGenerate.cache
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion1.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion2.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion3.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion4.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Escape\Index.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Escape\Victoria.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Home\Tutorial.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cache
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cs
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.Views.pdb
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.dll
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\ref\TP7.dll
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.pdb
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.genruntimeconfig.cache
+C:\Users\anton\Downloads\TP7 (1)\obj\Debug\net5.0\TP7.csproj.CopyComplete
+C:\Users\46123578\Downloads\TP7 (2)\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\46123578\Downloads\TP7 (2)\bin\Debug\net5.0\appsettings.json
+C:\Users\46123578\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.exe
+C:\Users\46123578\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.deps.json
+C:\Users\46123578\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.runtimeconfig.json
+C:\Users\46123578\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.runtimeconfig.dev.json
+C:\Users\46123578\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.dll
+C:\Users\46123578\Downloads\TP7 (2)\bin\Debug\net5.0\ref\TP7.dll
+C:\Users\46123578\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.pdb
+C:\Users\46123578\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.Views.dll
+C:\Users\46123578\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.Views.pdb
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.csprojAssemblyReference.cache
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.AssemblyInfoInputs.cache
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.AssemblyInfo.cs
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.csproj.CoreCompileInputs.cache
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cache
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cs
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.Manifest.cache
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.xml
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\scopedcss\bundle\TP7.styles.css
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.TagHelpers.input.cache
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.TagHelpers.output.cache
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.RazorCoreGenerate.cache
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion1.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion2.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion3.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion4.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Escape\Index.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Escape\Victoria.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Home\Tutorial.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cache
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cs
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.Views.pdb
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.dll
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\ref\TP7.dll
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.pdb
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.genruntimeconfig.cache
+C:\Users\46123578\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.csproj.CopyComplete
+C:\Users\anton\Downloads\TP7 (2)\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\anton\Downloads\TP7 (2)\bin\Debug\net5.0\appsettings.json
+C:\Users\anton\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.exe
+C:\Users\anton\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.deps.json
+C:\Users\anton\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.runtimeconfig.json
+C:\Users\anton\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.runtimeconfig.dev.json
+C:\Users\anton\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.dll
+C:\Users\anton\Downloads\TP7 (2)\bin\Debug\net5.0\ref\TP7.dll
+C:\Users\anton\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.pdb
+C:\Users\anton\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.Views.dll
+C:\Users\anton\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.Views.pdb
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.csproj.AssemblyReference.cache
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.AssemblyInfoInputs.cache
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.AssemblyInfo.cs
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.csproj.CoreCompileInputs.cache
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cache
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cs
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.Manifest.cache
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.xml
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\scopedcss\bundle\TP7.styles.css
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.TagHelpers.input.cache
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.TagHelpers.output.cache
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.RazorCoreGenerate.cache
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion1.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion2.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion3.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion4.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Escape\Index.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Escape\Victoria.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Home\Tutorial.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cache
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cs
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.Views.pdb
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.dll
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\ref\TP7.dll
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.pdb
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.genruntimeconfig.cache
+C:\Users\anton\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.csproj.CopyComplete
+C:\Users\santi\Downloads\TP7 (2)\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\santi\Downloads\TP7 (2)\bin\Debug\net5.0\appsettings.json
+C:\Users\santi\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.exe
+C:\Users\santi\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.deps.json
+C:\Users\santi\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.runtimeconfig.json
+C:\Users\santi\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.runtimeconfig.dev.json
+C:\Users\santi\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.dll
+C:\Users\santi\Downloads\TP7 (2)\bin\Debug\net5.0\ref\TP7.dll
+C:\Users\santi\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.pdb
+C:\Users\santi\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.Views.dll
+C:\Users\santi\Downloads\TP7 (2)\bin\Debug\net5.0\TP7.Views.pdb
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.csprojAssemblyReference.cache
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.AssemblyInfoInputs.cache
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.AssemblyInfo.cs
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.csproj.CoreCompileInputs.cache
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cache
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cs
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.Manifest.cache
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.xml
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\scopedcss\bundle\TP7.styles.css
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.TagHelpers.input.cache
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.TagHelpers.output.cache
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.RazorCoreGenerate.cache
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion1.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion2.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion3.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Escape\Habitacion4.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Escape\Index.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Escape\Victoria.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Home\Tutorial.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cache
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cs
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.Views.pdb
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.dll
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\ref\TP7.dll
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.pdb
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.genruntimeconfig.cache
+C:\Users\santi\Downloads\TP7 (2)\obj\Debug\net5.0\TP7.csproj.CopyComplete
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\appsettings.Development.json
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\appsettings.json
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\publish\web.config
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\web.config
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\appsettings.Development.json
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\appsettings.json
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\publish\appsettings.Development.json
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\publish\appsettings.json
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\publish\TP7.deps.json
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\publish\TP7.runtimeconfig.json
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\TP7.deps.json
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\TP7.runtimeconfig.json
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\TP7.exe
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\TP7.deps.json
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\TP7.runtimeconfig.json
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\TP7.runtimeconfig.dev.json
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\TP7.dll
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\ref\TP7.dll
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\TP7.pdb
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\TP7.Views.dll
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\TP7.Views.pdb
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.csproj.AssemblyReference.cache
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.GeneratedMSBuildEditorConfig.editorconfig
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.AssemblyInfoInputs.cache
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.AssemblyInfo.cs
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.csproj.CoreCompileInputs.cache
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.MvcApplicationPartsAssemblyInfo.cache
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cache
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cs
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.Manifest.cache
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\scopedcss\bundle\TP7.styles.css
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.TagHelpers.input.cache
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.TagHelpers.output.cache
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.RazorCoreGenerate.cache
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Escape\Habitacion1.cshtml.g.cs
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Escape\Habitacion2.cshtml.g.cs
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Escape\Habitacion3.cshtml.g.cs
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Escape\Habitacion4.cshtml.g.cs
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Escape\Index.cshtml.g.cs
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Escape\Victoria.cshtml.g.cs
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Home\Tutorial.cshtml.g.cs
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cache
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cs
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.Views.pdb
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.dll
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\ref\TP7.dll
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.pdb
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.genruntimeconfig.cache
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.csproj.CopyComplete
+F:\AHYA\ORT\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\TP7.StaticWebAssets.xml
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\publish\web.config
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\web.config
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\appsettings.Development.json
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\appsettings.json
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\appsettings.Development.json
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\appsettings.json
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\publish\appsettings.Development.json
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\publish\appsettings.json
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\publish\TP7.deps.json
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\publish\TP7.runtimeconfig.json
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\TP7.deps.json
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\publish\TP7.runtimeconfig.json
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\TP7.exe
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\TP7.deps.json
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\TP7.runtimeconfig.json
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\TP7.runtimeconfig.dev.json
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\TP7.dll
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\ref\TP7.dll
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\TP7.pdb
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\TP7.Views.dll
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\bin\Debug\net5.0\TP7.Views.pdb
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.csproj.AssemblyReference.cache
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.GeneratedMSBuildEditorConfig.editorconfig
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.AssemblyInfoInputs.cache
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.AssemblyInfo.cs
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.csproj.CoreCompileInputs.cache
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.MvcApplicationPartsAssemblyInfo.cache
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cache
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.RazorAssemblyInfo.cs
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\scopedcss\bundle\TP7.styles.css
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\staticwebassets\TP7.StaticWebAssets.Manifest.cache
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.TagHelpers.input.cache
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.TagHelpers.output.cache
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.RazorCoreGenerate.cache
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Escape\Habitacion1.cshtml.g.cs
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Escape\Habitacion2.cshtml.g.cs
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Escape\Habitacion3.cshtml.g.cs
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Escape\Habitacion4.cshtml.g.cs
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Escape\Index.cshtml.g.cs
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Escape\Victoria.cshtml.g.cs
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Home\Tutorial.cshtml.g.cs
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cache
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.RazorTargetAssemblyInfo.cs
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.Views.pdb
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.dll
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\ref\TP7.dll
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.pdb
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.genruntimeconfig.cache
+F:\AHYA\ORT\4IA\Prg\TP7 Raijel-Savelski-Sielecki\obj\Debug\net5.0\TP7.csproj.CopyComplete

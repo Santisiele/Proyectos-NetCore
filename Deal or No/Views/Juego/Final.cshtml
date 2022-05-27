@@ -1,0 +1,11 @@
+@{
+    ViewData["Title"] = "Felicidades";
+}
+<body id= "index">
+<div>
+    <h1 id= "color" style="margin-top: 5rem; text-align: center; font-size:3.7rem"> ¡Felicitaciones! </h1>
+    <h3 style= "text-align: center;"><i>Ganaste:</i></h3>
+    <h2 class= "precio"> $@string.Format("{0:#,0.00}", ViewBag.Final)</h2> 
+    <a button type="button" class="btn btn-outline-warning btn-lg btn-block" style= "margin-top: 2rem; margin-bottom: 8rem;" href='@Url.Action("Index","Juego")'>Volver a jugar</button></a>
+</div>
+</body>

@@ -1,0 +1,23 @@
+@{
+    ViewData["Title"] = "Gracias";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            <h2 class="titulo">¡Gracias!</h2>
+                <div class="descripcion">
+                    <p>Gracias por partcipar de la encuesta!. Tu opinion es muy valiosa</p>
+                    <p>@ViewBag.Nombre, gracias por contarnos quien pensas que será el ganador de esta edición.</p>
+                    <p>Tu Candidato: @ViewBag.Ganador</p>
+                </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            <center>
+                <img src=@("/img/banderas/" + @ViewBag.Ganador + ".png") id="banderaGanador">
+        </div>
+    </div>
+</div>

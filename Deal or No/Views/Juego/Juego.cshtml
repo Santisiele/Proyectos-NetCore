@@ -1,0 +1,107 @@
+@{
+    ViewData["Title"] = "Juego";
+}
+<body id= "index">
+    <h1 class= "maletin" style= "margin-top: 2rem; margin-bottom: 1rem;"> <b> Deal or no Deal </b></h1>
+    @if(@ViewBag.Mensaje==1){
+        <h3 class="text-center" style= "margin-bottom: 2rem;"> Error, maletin no existente</h3>
+        <h4 id= "color" class="text-center" style= "margin-bottom: 3rem;"> Elija otro maletin</h4>
+    }else if(@ViewBag.Mensaje==2){
+        <div class="modal" id= "terminal" tabindex="-1" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title texto">Maletin ya elegido</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body" id="modalb">
+            <h5 style="font-size:1rem;">Elije un maletin que no haya sido abierto.</h5>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-warning" data-dismiss="modal">Volver a intentar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <h3 class="text-center" style= "margin-bottom: 2rem;"> Jugadas restantes: @ViewBag.JugadasRestantes</h3>
+    }else if(ViewBag.Mensaje==3){
+<div class="modal" id= "terminal" tabindex="-1" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title texto">Decision incorrecta</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body" id="modalb">
+            <h5 style="font-size:1rem;">Tome una decision válida</h5>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-warning" data-dismiss="modal">Volver a intentar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <h3 class="text-center" style= "margin-bottom: 2rem;"> Jugadas restantes: @ViewBag.JugadasRestantes</h3>
+    }
+    else{
+        <h3 class="text-center" style= "margin-bottom: 2rem;"> Jugadas restantes: @ViewBag.JugadasRestantes</h3>
+        if (ViewBag.ImporteMaletin ==0){
+
+        }
+        else{
+          <h4 id= "color" class="text-center" style= "margin-bottom: 3rem;"> Importe del maletín: $ @string.Format("{0:#,0}", ViewBag.ImporteMaletin)</h4>
+        }
+        
+    }
+    <div class= "row"> 
+        <div class = "col-md-2">
+            @for (int i=0; i<13; i++){
+                if (ViewBag.ImportesDescartados.Contains(ViewBag.Importes[i]))
+                {
+                    <button type="button" class="btn btn-outline-secondary btn-lg rectangulo" style= "width:100%; margin-bottom:1rem;">$@ViewBag.Importes[i]</button>  
+                }
+                else
+                {
+                    <button type="button" class="btn btn-outline-warning btn-lg rectangulo" style= "width:100%; margin-bottom:1rem;">$@ViewBag.Importes[i]</button>  
+                }
+                    
+                } 
+            }
+        </div>
+        <div class = "col-md-8">
+            <div class="row" style="justify-content: center">
+                @for (int j=0; j <26; j++){
+                    <div class="col-md-3 col-6">
+                        @if(@ViewBag.Maletines[j].estado){
+                            <img class="img-fluid" id="maletin" src="/img/maletin1.png" style="opacity: 50%">
+                            <div class="centered">@(j+1)</div>
+                        }
+                        else{
+                            <a href='@Url.Action("eleccionMaletin", "Juego", new {maletin=j})'>
+                            <img class="img-fluid" id="maletin" src="/img/maletin1.png">
+                            <div class="centered">@(j+1)</div>
+                        </a>
+                        }
+                    </div>
+                }
+            </div>
+        </div>
+        <div class = "col-md-2">
+            @for (int f=13; f<26; f++){
+                if (ViewBag.ImportesDescartados.Contains(ViewBag.Importes[f]))
+                {
+                    <button type="button" class="btn btn-outline-secondary btn-lg rectangulo" style= "width:100%; margin-bottom:1rem;">$@ViewBag.Importes[f]</button>  
+                }
+                else
+                {
+                    <button type="button" class="btn btn-outline-warning btn-lg rectangulo" style= "width:100%; margin-bottom:1rem;">$@ViewBag.Importes[f]</button>  
+                }
+                } 
+            }
+        </div>
+    </div>
+</body>

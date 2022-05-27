@@ -1,0 +1,106 @@
+@{
+    ViewData["Title"] = "Hall";
+}
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-lg-12 col-md-12 col-sm-12">
+<div class="jumbotron jumbotron-fluid hall">
+  <div class="container">
+    <h1 class="display-4">¡Has ingresado al hall del shopping!</h1>
+    <p class="lead">Para lograr escapar de la última sala del juego, deberás encontrar en la imagen siguiente, a la nena que esta tomando un helado, e indicar de que color es la bocha del mismo.</p>
+  </div>
+</div>
+<div>
+      </div>
+  </div>
+
+<center>
+  <img class= "img-fluid img" src="/img/helado.png">
+<center>
+</div>
+
+<br>
+  <div class="row">
+    <div class="col-lg-12 col-md-12 col-sm-12">
+<div id = "hespecial"> 
+<br>
+<center>
+<form action='@Url.Action("Habitacion4","Escape")' method="post">
+<div class="input-group ml-0 mb-0">
+  <input type="text" class="form-control" name= "clave" placeholder="Ingrese la clave" aria-label="clave" aria-describedby="button-addon2">
+  <div class="input-group-append">
+    <button class="btn btn-danger" type="submit" id="button-addon2">Enviar</button>
+    @{
+    if(ViewBag.Alerta==true){
+    <div class="modal" id= "terminal" tabindex="-1" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title texto">Código incorrecto</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <p class="texto">Vuelva a intentar.</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            <button type="button" class="btn btn-primary" data-dismiss="modal">Volver a intentar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+}
+}
+ </div>
+</div>
+</form>
+<br>
+</div>
+      </div>
+  </div>
+<div class = "container pt-3">
+      <center> 
+        <button type="button" class="show btn btn-outline-success btn-lg" style="margin-right: 1rem;" data-toggle="modal" data-target="#myAlert">Pista 1</button>
+        <button type="button" class="show btn btn-outline-success btn-lg" style="margin-right: 1rem;" data-toggle="modal" data-target="#myAlert2">Pista 2</button>
+      </center>
+</div>
+    <div class="modal fade" id="myAlert" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Pista 1</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Cerrar">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+           <div class="modal-body">
+           La nena se encuentra en el cuadrante inferior derecho de la imagen.
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            <button type="button" class="btn btn-primary" data-dismiss="modal">Aceptar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="myAlert2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Pista 2</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Cerrar">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+          La nena esta entre el tiburón rojo y la sombrilla roja y blanca.
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            <button type="button" class="btn btn-primary" data-dismiss="modal">Aceptar</button>
+          </div>
+        </div>
+      </div>
+    </div>

@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+
+<div class="container">
+        <div class="row justify-content-center">
+
+        @if(ViewBag.Cursos.Count==0){
+                <h1>No hay cursos disponibles</h1>        
+        }
+
+            @foreach(Curso cur in ViewBag.Cursos){
+                <div class="col-md-4">
+                    <center>
+                    <div class="card" style="width: 18rem; margin-bottom: 2rem; background-color: black">
+                    <img src="@cur.Imagen" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title" style="color: white">@cur.Nombre</h5>
+                        <a class="btn btn-primary" href='@Url.Action("VerCurso","Home", new {IdCurso=@cur.IdCurso})'>Ver mas info de @cur.Nombre</a>
+                    </div>
+                </div>
+                </center>
+                </div>
+            }
+        </div>
+    </div>
+    <div class="row">
+        @foreach(Especialidad esp in ViewBag.Especialidad){
+            <div class="col-md-4" style="margin-top:3rem;">
+                <center>
+                    <a class="btn btn-primary" href='@Url.Action("MostarCursosXEspecialidad","Home", new {IdEspecialidad=@esp.IdEspecialidad})'>Ver los cursos de @esp.Nombre</a>
+                </center>
+            </div>
+        }
+    </div>
+</div>

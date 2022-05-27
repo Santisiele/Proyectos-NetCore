@@ -1,0 +1,51 @@
+    @{
+    ViewData["Title"] = "Votantes";
+}
+    @{
+        int k=1;
+    }
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+    <tr class="bg-dark" style="color:white">
+      <th scope="col">#</th>
+      <th scope="col">Apellido</th>
+      <th scope="col">Nombre</th>
+      <th scope="col">Voto</th>
+      <th scope="col">Foto</th>
+    </tr>
+  </thead>
+  @foreach(Persona per in ViewBag.EXP){
+      @if(per.Voto){
+        <tbody>
+            <tr class="bg-success">
+            <th scope="row">@k</th>
+            <td>@per.Apellido</td>
+            <td>@per.Nombre</td>
+            <td>@(per.Voto?"Voto":"No votó")</td>
+            <td> <img src=@per.UrlFoto class="img-fluid" id="fotito" alt="Responsive image"></td>
+            </tr>
+    </tbody>
+      }else{
+        <tbody>
+            <tr class="bg-danger">
+            <th scope="row">@k</th>
+            <td>@per.Apellido</td>
+            <td>@per.Nombre</td>
+            <td>@(per.Voto?"Voto":"No votó")</td>
+            <td> <img src=@per.UrlFoto class="img-fluid" id="fotito" alt="Responsive image"></td>
+            </tr>
+        </tbody>
+      }
+  k++;
+  }
+        </table>
+        
+</div>
+<div class="row justify-content-center">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            <center>
+              <a href='@Url.Action("Establecimiento","Home")' type="button" class="btn btn-primary">Volver a ver establecimientos</a>
+          </center>
+        </div>
+      </div>

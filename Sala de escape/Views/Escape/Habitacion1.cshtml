@@ -1,0 +1,114 @@
+@{
+    ViewData["Title"] = "Sala de cine";
+}
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-lg-12 col-md-12 col-sm-12">
+<div class="jumbotron jumbotron-fluid sala">
+  <div class="container">
+    <h1 class="display-4">¡Has ingresado a la sala de Cine!</h1>
+    <p class="lead">Para lograr escapar, deberás completar el crucigrama que se encuentra a continuación. Una vez que hayas completado todos los espacios, presioná confirmar y mirá el número que aparece al presionar cada palabra. Para desifrar la clave final y pasar a la siguiente sala, deberás poner el numero compuesto por todos los anteriores, en orden.</p>
+  </div>
+</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-12 col-md-12 col-sm-12">
+<center>
+<iframe style="width: 78rem;" height="590" frameborder="0" class="juego" src="https://es.educaplay.com/juego/9993603-cine_shopping.html"></iframe>
+
+</div>
+  </div>
+  <div class="row">
+    <div class="col-lg-12 col-md-12 col-sm-12">
+<br>
+<div id = "hespecial"> 
+<br>
+<center>
+<form action='@Url.Action("Habitacion1","Escape")' method="post" >
+<div class="input-group ml-0.9 mr-0.9 mb-0">
+  <input type="number" class="form-control" name= "clave" placeholder="Ingrese la clave" aria-label="clave" aria-describedby="button-addon2">
+  <div class="input-group-append">
+    <button class="btn btn-danger" type="submit">Enviar</button>
+    @{
+    if(ViewBag.Alerta==true){
+    <div class="modal" id= "terminal" tabindex="-1" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title texto">Código incorrecto</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <p class="texto">Vuelva a intentar.</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            <button type="button" class="btn btn-primary" data-dismiss="modal">Volver a intentar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+}
+}
+ </div>
+</div>
+</form>
+<br>
+</div>
+</div>
+<div class = "container pt-3">
+      <center> 
+        <button type="button" class="show btn btn-outline-success btn-lg" style="margin-right: 1rem;" data-toggle="modal" data-target="#myAlert">Pista 1</button>
+        <button type="button" class="show btn btn-outline-success btn-lg" style="margin-right: 1rem;" data-toggle="modal" data-target="#myAlert2">Pista 2</button>
+      </center>
+</div>
+    <div class="modal fade" id="myAlert" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Pista 1</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Cerrar">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+           <div class="modal-body">
+           Todas las palabras estan relacionadas a un cine, algunas descripciones pueden hacerte pensar en varias opciones, calcula cuidadosamente la cantidad de caracteres y pensa en sinonimos. 
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            <button type="button" class="btn btn-primary" data-dismiss="modal">Aceptar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="myAlert2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Pista 2</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Cerrar">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            1. Empieza con C <br>
+            2. Empieza con P <br>
+            3. Empieza con P <br>
+            4. Empieza con R <br>
+            5. Empieza con A <br>
+            6. Empieza con B <br>
+            7. Empieza con C <br>
+            8. Empieza con P <br>
+            9. Empieza con B <br>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            <button type="button" class="btn btn-primary" data-dismiss="modal">Aceptar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>

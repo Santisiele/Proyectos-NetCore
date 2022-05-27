@@ -1,0 +1,79 @@
+@{
+    ViewData["Title"] = "Votar";
+}
+
+@if(ViewBag.Persona.Voto){
+  <div class="container">
+     <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+          <div class="formulario">
+              <center>
+                  <h2>Voto realizado</h2>
+              </center>
+        <form action='@Url.Action("Votar", "Home")' method="POST">
+          <div class="form-group">
+            <h10>Apellido y Nombre</h10>
+            <input type="text" class="form-control ingresar" id="exampleFormControlInput0" placeholder="@ViewBag.Persona.Apellido, @ViewBag.Persona.Nombre" aria-describedby="button-addon2" readonly>
+            <br>
+            <h10>Dni</h10>
+            <input type="text" class="form-control ingresar" id="exampleFormControlInput0" placeholder="@ViewBag.Persona.DNI" name="dni" aria-describedby="button-addon2" readonly>
+            <br>
+            <h10>Numero de trámite</h10>
+            <input type="text" class="form-control ingresar" id="exampleFormControlInput0" placeholder="@ViewBag.Persona.NumeroTramite" name="NumeroTramite" aria-describedby="button-addon2" readonly>
+            <br>
+            <h10>Fecha de voto</h10>
+            <input type="text" class="form-control ingresar" id="exampleFormControlInput0" placeholder='@ViewBag.Persona.FechaVoto.ToString("dd/MM/yyyy")' aria-describedby="button-addon2" readonly>
+            <br>
+            <h10>Establecimiento</h10>
+            <input type="text" class="form-control ingresar" id="exampleFormControlInput0" placeholder="@ViewBag.Establecimiento.Nombre" aria-describedby="button-addon2" readonly>
+            <br>
+            
+          </div>
+          <center>
+            <h2 class="viewbags">@ViewBag.YaVoto</h2>
+            <a href='@Url.Action("Index","Home")' type="button" class="btn btn-primary">Regresar</a>
+          </center>
+        </form>
+        <center>
+             <h2 class="viewbags">@ViewBag.NoDNI</h2>
+        </center>
+        </div>
+      </div>
+  </div>
+  </div>
+}else{
+    <div class="container">
+     <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+          <div class="formulario">
+              <center>
+                  <h2>Realice su voto</h2>
+              </center>
+        <form action='@Url.Action("Votar", "Home")' method="POST">
+          <div class="form-group">
+            <h10>Apellido y Nombre</h10>
+            <input type="text" class="form-control ingresar" id="exampleFormControlInput0" placeholder="@ViewBag.Persona.Apellido, @ViewBag.Persona.Nombre" aria-describedby="button-addon2" readonly>
+            <br>
+            <h10>Dni</h10>
+            <input type="text" class="form-control ingresar" id="exampleFormControlInput0" name="dni" value="@ViewBag.Persona.DNI" placeholder="DNI: @ViewBag.Persona.DNI" aria-describedby="button-addon2" readonly>
+            <br>
+            <h10>Establecimiento</h10>
+            <input type="text" class="form-control ingresar" id="exampleFormControlInput0" placeholder="@ViewBag.Establecimiento.Nombre" aria-describedby="button-addon2"  readonly>
+            <br>
+            <h10>Numero de trámite</h10>
+            <input type="text" class="form-control ingresar" id="exampleFormControlInput0" placeholder="Ingrese su número de trámite" name="NumeroTramite" aria-describedby="button-addon2"  required>
+            <br>
+          </div>
+          <center>
+        <br>
+            <button type="submit" class="btn btn-primary">Votar</button>
+          </center>
+        </form>
+        <center>
+            <h4>@ViewBag.Nocoincide</h4>
+        </center>
+        </div>
+      </div>
+  </div>
+  </div>
+}

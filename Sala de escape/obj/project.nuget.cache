@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rfosi5xc14jHCs6ML50WXQjdx0GXjPZ1lvRBE2lgz3LtJt8G5KarJuKaBsy5DS/tw+rSAbDUqCtcb8wOm7upsw==",
+  "success": true,
+  "projectFilePath": "F:\\AHYA\\ORT\\4IA\\Prg\\TP7 Raijel-Savelski-Sielecki\\TP7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

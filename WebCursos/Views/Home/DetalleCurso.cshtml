@@ -1,0 +1,35 @@
+@{
+    ViewData["Title"] = "Detalle Curso";
+}
+
+<h1>Detalle de @ViewBag.Curso.Nombre</h1>
+<div class="container">
+<div class="form-group formulario">
+            <h10>Nombre</h10>
+            <input type="text" class="form-control ingresar" id="exampleFormControlInput0" placeholder="@ViewBag.Curso.Nombre" aria-describedby="button-addon2" readonly>
+            <br>
+            <h10>Descripción</h10>
+            <textarea class="form-control ingresar" id="exampleFormControlTextarea1" rows="10" placeholder="@ViewBag.Curso.Descripcion"readonly></textarea>
+          </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <center>
+                <a class="navbar-brand" href='@Url.Action("Calificar","Home", new {Like="True", IdCurso=@ViewBag.Curso.IdCurso})'>
+                    <img src="/img/Like.png" class="like" id="foto1" alt="Responsive image"><span class="sr-only">(current)</span><p>@ViewBag.Curso.MeGusta</p>
+                </a>
+                <a class="navbar-brand" href='@Url.Action("Calificar","Home", new {Like="False", IdCurso=@ViewBag.Curso.IdCurso})'>
+                    <img src="/img/Dislike.png" class="like" id="foto2" alt="Responsive image"><span class="sr-only">(current)</span><p>@ViewBag.Curso.NoMeGusta</p>
+                </a>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+                @Html.Raw(ViewBag.Curso.UrlCurso)
+        </div>
+        <br>
+        <br>
+            <center>
+            <a href='@Url.Action("Index","Home")' type="button" class="btn btn-primary">Regresar</a>
+</div>
+        

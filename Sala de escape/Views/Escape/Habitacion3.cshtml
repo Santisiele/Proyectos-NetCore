@@ -1,0 +1,65 @@
+@{
+    ViewData["Title"] = "Supermercado";
+}
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-lg-12 col-md-12 col-sm-12">
+<div class="jumbotron jumbotron-fluid supermercado">
+  <div class="container">
+    <h1 class="display-4">¡Has ingresado al Supermercado!</h1>
+    <p class="lead">Para lograr escapar, deberás encontrar las palabras en la sopa de letras, con las que después deberás desifrar la clave. La misma es un producto que todas las palabras hayadas tienen en común. Las pistas estan incluidas en el juego apretando el boton que "Mostrar palabra".</p>
+  </div>
+</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-12 col-md-12 col-sm-12">
+<center>
+<iframe style="width: 78rem;" height="590" frameborder="0" class="juego" src="https://es.educaplay.com/juego/9993564-supermercado.html"></iframe>
+
+</div>
+  </div>
+<br>
+  <div class="row">
+    <div class="col-lg-12 col-md-12 col-sm-12">
+<div id = "hespecial"> 
+<br>
+<center>
+<form action='@Url.Action("Habitacion3","Escape")' method="post">
+<div class="input-group ml-0 mb-0">
+  <input type="text" class="form-control" name= "clave" placeholder="Ingrese la clave" aria-label="clave" aria-describedby="button-addon2">
+  <div class="input-group-append">
+    <button class="btn btn-danger" type="submit" id="button-addon2">Enviar</button>
+    @{
+    if(ViewBag.Alerta==true){
+    <div class="modal" id= "terminal" tabindex="-1" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title texto">Código incorrecto</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <p class="texto">Vuelva a intentar.</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            <button type="button" class="btn btn-primary" data-dismiss="modal">Volver a intentar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+}
+}
+ </div>
+</div>
+</form>
+<br>
+</div>
+    </div>
+  </div>
+  </div>
+</div>
+<br>

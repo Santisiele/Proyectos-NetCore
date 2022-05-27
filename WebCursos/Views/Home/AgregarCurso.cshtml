@@ -1,0 +1,44 @@
+@{
+    ViewData["Title"] = "Agregar curso";
+}
+
+    <div class="container">
+     <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+          <div class="formulario">
+              <center>
+                  <h2>Ingrese los datos del curso</h2>
+              </center>
+        <form action='@Url.Action("GuardarCurso", "Home")' method="POST">
+          <div class="form-group">
+            <h10>Nombre del curso</h10>
+            <input type="text" class="form-control ingresar" id="exampleFormControlInput0" placeholder="Ingrese el nombre del curso" name="Nombre" aria-describedby="button-addon2" required>
+            <br>
+            <h10>Imagen</h10>
+            <input type="text" class="form-control ingresar" id="exampleFormControlInput0" placeholder="Ingrese el link de la imagen del curso" name="Imagen"aria-describedby="button-addon2"  required>
+            <br>
+            <h10>Url</h10>
+            <input type="text" class="form-control ingresar" id="exampleFormControlInput0" placeholder="Ingrese la url (embed) del curso" name="UrlCurso" aria-describedby="button-addon2"  required>
+            <br>
+            @foreach(Especialidad esp in ViewBag.Especialidad){
+            <div class="form-check">
+                <input class="form-check-input" type="radio" id="exampleRadios1" name="IdEspecialidad" value=@esp.IdEspecialidad checked>
+                    <label class="form-check-label" for="exampleRadios1">
+                        @esp.Nombre
+                    </label>
+            </div>
+            }
+            </div>
+            <h10>Descripción</h10>
+            <textarea class="form-control ingresar" id="exampleFormControlTextarea1" rows="10" placeholder="Ingrese la descripción del curso" name="Descripcion"required></textarea>
+            <br>
+          <center>
+        <br>
+            <button type="submit" class="btn btn-primary">Crear curso</button>
+          </center>
+        </form>
+        <center>
+            <h4>@ViewBag.Nocoincide</h4>
+        </center>
+        </div>
+      </div>

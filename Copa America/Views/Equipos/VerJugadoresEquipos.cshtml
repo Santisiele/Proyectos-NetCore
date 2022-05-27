@@ -1,0 +1,37 @@
+@{
+    ViewData["Title"] = "Jugadores";
+}
+<div class="container">
+        <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            <h2 class="titulo">Equipos</h2>
+                <div class="descripcion">
+                    <p>En esta página podrás encontrar los jugadores de @(ViewBag.Equipos)</p>
+                    <p>Los links llevan a la wikipedia del jugador</p>
+                </div>
+        </div>
+    </div>
+
+<div class="row" style="justify-content: center">
+<div class="col-lg-12 col-md-12 col-sm-12">
+
+<center>
+<img src="/img/seleccion/@(ViewBag.Equipos).jpg" class="img-fluid" id="seleccion" alt="Responsive image">
+</center>
+<br><br><br><br>
+</div>
+<div class="row">
+@for (int i = 0; i < ViewBag.Jugadores.Length;i++){
+<div class="col-lg-4 col-md-6 col-sm-12 my-3">
+<center>
+          <div class="card" style="width: 15rem;" >
+           <div class="card-body"> 
+              <h4 class="card-title">@ViewBag.Jugadores[i]</h4>
+              <p class="card-text"> @ViewBag.EquiJugadores[i]</p>
+              <a href="https://es.wikipedia.org/wiki/@ViewBag.Jugadores[i]" class="btn btn-primary">Ver Info. Jugador</a>
+            </div>
+          </div>
+        </div>
+}
+</div>
+</div>
